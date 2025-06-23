@@ -1644,10 +1644,10 @@ negotiator@0.6.3:
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.3.tgz#58e323a72fedc0d6f9cd4d31fe49f51479590ccd"
   integrity sha512-+EUsqGPLsM+j/zdChZjsnX51g4XrHFOIXwfnCVPGlQk/k5giakcKsuxCObBRu6DSm9opw/O6slWbJdghQM4bBg==
 
-nodemon@^3.1.7:
-  version "3.1.9"
-  resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-3.1.9.tgz#df502cdc3b120e1c3c0c6e4152349019efa7387b"
-  integrity sha512-hdr1oIb2p6ZSxu3PB2JWWYS7ZQ0qvaZsc3hK8DR8f02kRzc8rjYmxAIvdz+aYC+8F2IjNaB7HMcSDg8nQpJxyg==
+nodemon@^3.1.9:
+  version "3.1.10"
+  resolved "https://registry.yarnpkg.com/nodemon/-/nodemon-3.1.10.tgz#5015c5eb4fffcb24d98cf9454df14f4fecec9bc1"
+  integrity sha512-WDjw3pJ0/0jMFmyNDp3gvY2YizjLmmOUQo6DEBY+JgdvW/yQ9mEeSw6H5ythl5Ny2ytb7f9C2nIbjSxMNzbJXw==
   dependencies:
     chokidar "^3.5.2"
     debug "^4"
@@ -1839,10 +1839,10 @@ prelude-ls@^1.2.1:
   resolved "https://registry.yarnpkg.com/prelude-ls/-/prelude-ls-1.2.1.tgz#debc6489d7a6e6b0e7611888cec880337d316396"
   integrity sha512-vkcDPrRZo1QZLbn5RLGPpg/WmIQ65qoWWhcGKf/b5eplkkarX0m9z8ppCat4mlOqUsWpyNuYgO3VRyrYHSzX5g==
 
-prettier@^3.5.2:
-  version "3.5.2"
-  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.5.2.tgz#d066c6053200da0234bf8fa1ef45168abed8b914"
-  integrity sha512-lc6npv5PH7hVqozBR7lkBNOGXV9vMwROAPlumdBkX0wTbbzPu/U1hk5yL8p2pt4Xoc+2mkT8t/sow2YrV/M5qg==
+prettier@^3.6.0:
+  version "3.6.0"
+  resolved "https://registry.yarnpkg.com/prettier/-/prettier-3.6.0.tgz#18ec98d62cb0757a5d4eab40253ff3e6d0fc8dea"
+  integrity sha512-ujSB9uXHJKzM/2GBuE0hBOUgC77CN3Bnpqa+g80bkv3T3A93wL/xlzDATHhnhkzifz/UE2SNOvmbTz5hSkDlHw==
 
 proxy-addr@~2.0.7:
   version "2.0.7"
